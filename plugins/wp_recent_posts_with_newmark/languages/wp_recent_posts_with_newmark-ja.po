@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Language: ja\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yujiro Araki <araki.yujiro@gmail.com>\n"
+"Language-Team: \n"
+
+msgid "Recent Posts with New Mark"
+msgstr "新着表示つきの最近の投稿"
+
+msgid "The most recent posts on your site with new mark"
+msgstr "サイトの最新の投稿に新着表示をつける"
+
+msgid "Time:"
+msgstr "新着表示時間:"
+
+msgid "HTML for New Mark:"
+msgstr "新着表示用HTML:"
+
